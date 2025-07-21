@@ -5,7 +5,9 @@
 Lần đầu chạy trên Windows, có thể có cảnh báo như dưới đây. 
 
 Bấm vào "Run" để tiếp tục
+
 ![Microsoft Defender Warning](windefender.png)
 
 Sau khi chạy xong, cửa sổ output sẽ hiện ra tương tự như hình dưới đây
+
 ![Output](output.png)
