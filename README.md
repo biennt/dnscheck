@@ -11,7 +11,7 @@ To run (cltr+c to interupt):
 
 `dnscheck.exe google.com 8.8.8.8`
 
-Output and Log file looks like this
+Output and Log file looks like this (last value is TTL)
 ```
 2026-08-14 08:10:32.847,8.8.8.8:53,google.com,172.253.118.139,54
 2026-08-14 08:10:33.954,8.8.8.8:53,google.com,142.251.10.138,20
